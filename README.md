@@ -1,4 +1,4 @@
-![ottogroup logo](http://ottogroup.com/en/index.php)
+![ottogroup logo](http://ottogroup.com/wLayout/wGlobal/layout/images/logo-transparent.png)
 
 # Otto Group Product Classification Challenge
 
