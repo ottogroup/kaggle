@@ -2,8 +2,7 @@
 
 ## About the competition
 
-For the  
-[Otto Group Product Classification Challenge](https://www.kaggle.com/c/LINK), 
+For the [Otto Group Product Classification Challenge](https://www.kaggle.com/c/LINK), 
 hosted by Kaggle, we have provided a dataset with 93 features for more 
 than 200,000 products. The objective is to build a predictive model which 
 is able to distinguish between our main product categories.
@@ -18,8 +17,7 @@ the competition. Use this script in the following way:
 Each argument is optional as the script will guess the right names if you don't
 change them after downloading and put them in subfolder called _data_. It will
 then create a submission called _my_submission.csv_ which should produce the
-benchmark posted on the 
-[leaderboard](https://www.kaggle.com/c/LINK/leaderboard).
+benchmark posted on the [leaderboard](https://www.kaggle.com/c/LINK/leaderboard).
 
 ## Requirements
 
@@ -34,6 +32,5 @@ This script was tested using [Python 2.7.9](https://www.python.org/downloads/).
 ## Questions
 
 If you have a question regarding this script or the competition in general,
-head to the 
-[forum](https://www.kaggle.com/c/LINK/forums) 
+head to the [forum](https://www.kaggle.com/c/LINK/forums) 
 and post them.
