@@ -1,5 +1,3 @@
-![ottogroup logo](http://ottogroup.com/wLayout/wGlobal/layout/images/logo-transparent.png)
-
 # Otto Group Product Classification Challenge
 
 ## About the competition
@@ -38,3 +36,5 @@ This script was tested using [Python 2.7.9](https://www.python.org/downloads/).
 If you have a question regarding this script or the competition in general,
 head to the [forum](https://www.kaggle.com/c/LINK/forums) 
 and post them.
+
+![ottogroup logo](http://ottogroup.com/wLayout/wGlobal/layout/images/logo-transparent.png)
