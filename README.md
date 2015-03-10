@@ -1,3 +1,5 @@
+![ottogroup logo](http://ottogroup.com/en/index.php)
+
 # Otto Group Product Classification Challenge
 
 ## About the competition
@@ -6,6 +8,8 @@ For the [Otto Group Product Classification Challenge](https://www.kaggle.com/c/L
 hosted by Kaggle, we have provided a dataset with 93 features for more 
 than 200,000 products. The objective is to build a predictive model which 
 is able to distinguish between our main product categories.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Using the script
 
