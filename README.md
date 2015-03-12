@@ -37,4 +37,9 @@ If you have a question regarding this script or the competition in general,
 head to the [forum](https://www.kaggle.com/c/LINK/forums) 
 and post them.
 
+
+
+
 ![ottogroup logo](http://ottogroup.com/wLayout/wGlobal/layout/images/logo-transparent.png)
+
+
