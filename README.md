@@ -31,6 +31,12 @@ To run the script, you will need to install the following packages:
 
 This script was tested using [Python 2.7.9](https://www.python.org/downloads/).
 
+## Getting started with nolearn/lasagne
+
+We also provide a getting started notebook for those who want to try out neural nets:
+
+[Getting started with nolearn/lasagne](http://nbviewer.ipython.org/github/ottogroup/kaggle/blob/master/Otto_Group_Competition.ipynb)
+
 ## Questions
 
 If you have a question regarding this script or the competition in general,
