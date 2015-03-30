@@ -106,7 +106,7 @@ def make_submission(clf, encoder, path='my_submission.csv'):
         f.write(','.join(encoder.classes_))
         f.write('\n')
         for id, probs in zip(ids, y_prob):
-            probas = ','.join([id] + map(str, probs.tolist()))
+            probas = ','.join([id] + list(map(str, probs.tolist())))
             f.write(probas)
             f.write('\n')
     print(" -- Wrote submission to file {}.".format(path))
